@@ -1,5 +1,4 @@
-# daprojects
-My Data Analytics Projects as Portfolio
+# My first data analytics portfolio
 
 With huge interest in Data Analytics, I decided to join RevoU Mini Course Data Analytics Batch 30 May 2022 - 11 June 2022. In 10 days, I learned a lot of basics about Data Analytics. While I joined this mini course, I did some case studies that included as a optional assignment.
 
